@@ -61,6 +61,11 @@ Thạch Phạm Dev, \
 App Developer, Vietnam. \
 tpgamecoding.com - tpgamecoding Resources and Information.
 
+To deploy this project run this command in you Netbeans Project directory 
+
+```bash
+  git clone https://github.com/Istiaq-Alam/Flappy-Birds-Game.git
+```
 
 ## Contributing
 
@@ -74,10 +79,6 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 ## Deployment
 
-To deploy this project run this command in you Netbeans Project directory 
 
-```bash
-  git clone https://github.com/Istiaq-Alam/Flappy-Birds-Game.git
-```
 
 
