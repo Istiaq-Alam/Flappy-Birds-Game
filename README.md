@@ -25,16 +25,6 @@ Flappy Bird game is made with Java. In this project, I added an interface that w
 2.	Pkg2dgamesframework
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  git clone https://github.com/Istiaq-Alam/Flappy-Birds-Game.git
-```
-
-
-
 ## My Features & Contribution:
 1.	A GUI window will be shown with the Game logo, and users can see the game play button under the Game Title & find the way to play this game.
 2.	This Game is so user friendly that anyone can run the game easily. 
@@ -84,9 +74,10 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 ## Deployment
 
-To deploy this project run
+To deploy this project run this command in you Netbeans Project directory 
 
 ```bash
   git clone https://github.com/Istiaq-Alam/Flappy-Birds-Game.git
 ```
+
 
