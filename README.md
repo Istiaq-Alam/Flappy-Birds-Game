@@ -61,6 +61,7 @@ Thạch Phạm Dev, \
 App Developer, Vietnam. \
 tpgamecoding.com - tpgamecoding Resources and Information.
 
+## Deploy
 To deploy this project run this command in you Netbeans Project directory 
 
 ```bash
