@@ -10,7 +10,7 @@ Flappy Bird game is made with Java. In this project, I added an interface that w
 2.	NetBeans IDE 18 
 
 
-## Java Libraries:
+## Java Libraries:  
 
 1.	Java Swing
 2.	Java Awt
