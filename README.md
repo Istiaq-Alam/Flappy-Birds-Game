@@ -6,7 +6,7 @@ Flappy Bird game is made with Java. In this project, I added an interface that w
 
 
 ## JDK Version & IDE:
-1.	JDK 19.0.2 (64bit Version)
+1.	JDK 19.0.2 (64bit Version)  
 2.	NetBeans IDE 18 
 
 
