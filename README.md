@@ -4,12 +4,12 @@ Flappy Bird game is made with Java. In this project, I added an interface that w
 
 <img align="right" alt="logo" width="400" src="https://github.com/Istiaq-Alam/Flappy-Birds-Game/assets/168295675/56bcd400-d8f8-4b19-bea4-3c6c361ba65a">
 
-
+    
 ## JDK Version & IDE:
 1.	JDK 19.0.2 (64bit Version)  
 2.	NetBeans IDE 18 
 
-
+    
 ## Java Libraries:  
 
 1.	Java Swing
@@ -31,7 +31,7 @@ Flappy Bird game is made with Java. In this project, I added an interface that w
 3.	There are some instructions in the ground to play the game.
 4.	This project can be developed further & we can add more features to this game.
 5.	After the game is over, the game will return user to the home page as the user can play this game again without running the whole project.
-
+   
 ## Home Screen Panel:
 ![image](https://github.com/Istiaq-Alam/Flappy-Birds-Game/assets/168295675/df69b479-6c3a-40e9-b68d-533adf67a673)
 
@@ -56,7 +56,7 @@ This game keeps track of the player's score, which increases as the bird success
 
 Overall, Flappy Bird is a challenging and addictive game that tests the player's reflexes and precision. It’s simple yet engaging gameplay mechanics have made it a popular choice among gamers of all ages. I am so proud that at last I created this kind of game project.
 
-## Reference and using codes from:
+## Reference and using codes from:   
 Thạch Phạm Dev, \
 App Developer, Vietnam. \
 tpgamecoding.com - tpgamecoding Resources and Information.
@@ -66,7 +66,7 @@ To deploy this project run this command in you Netbeans Project directory
 
 ```bash
   git clone https://github.com/Istiaq-Alam/Flappy-Birds-Game.git
-```
+```    
 
 ## Contributing
 
