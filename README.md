@@ -7,19 +7,19 @@ Flappy Bird game is made with Java. In this project, I added an interface that w
     
 ## JDK Version & IDE:
 1.	JDK 19.0.2 (64bit Version)  
-2.	NetBeans IDE 18 
+2.	NetBeans IDE 18   
 
     
-## Java Libraries:  
+## Java Libraries:     
 
 1.	Java Swing
 2.	Java Awt
-3.	Java Graphics
+3.	Java Graphics   
 4.	Java Graphics2D
 
 ### [Note: No external library is used in this project]
 
-
+   
 ## Packages:
 1.	flappyBirds
 2.	Pkg2dgamesframework
