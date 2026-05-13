@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Flappy Birds (Java) — Download Latest Release</title>
+    <meta
+      name="description"
+      content="Download the latest release of the Flappy Birds Java game from GitHub Releases."
+    />
+    <link rel="stylesheet" href="./assets/site.css" />
+    <script defer src="./assets/site.js"></script>
+  </head>
+  <body>
+    <header class="header">
+      <div class="container header__inner">
+        <a class="brand" href="./">
+          <span class="brand__mark" aria-hidden="true">
+            <svg viewBox="0 0 64 64" role="img" focusable="false">
+              <path
+                d="M18 39c-3 0-6-2-7-5-2-5 2-12 9-15 8-3 15-2 20 1 3 2 5 5 5 8 0 3-1 6-4 9-4 4-11 2-13-1-1-2-5-2-10 3z"
+                fill="currentColor"
+              />
+              <circle cx="36" cy="25" r="3" fill="currentColor" />
+              <path d="M40 29l15-4-15 10z" fill="currentColor" />
+            </svg>
+          </span>
+          <span class="brand__text">Flappy Birds (Java)</span>
+        </a>
+
+        <nav class="nav">
+          <a class="nav__link" href="#download">Download</a>
+          <a class="nav__link" href="#run">How to Run</a>
+          <a class="nav__link" href="#release">Upload a Release</a>
+          <a
+            class="nav__link"
+            href="https://github.com/Istiaq-Alam/Flappy-Birds-Game"
+            target="_blank"
+            rel="noreferrer"
+            >GitHub</a
+          >
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="container hero__inner">
+          <div class="hero__copy">
+            <h1 class="hero__title">Download the latest release</h1>
+            <p class="hero__subtitle">
+              This page auto-detects the newest GitHub Release and shows the
+              download links for the latest build.
+            </p>
+
+            <div class="hero__cta">
+              <a class="button button--primary" href="#download">Get the game</a>
+              <a
+                class="button button--ghost"
+                href="https://github.com/Istiaq-Alam/Flappy-Birds-Game/releases/latest"
+                target="_blank"
+                rel="noreferrer"
+                >View on GitHub Releases</a
+              >
+            </div>
+
+            <dl class="meta">
+              <div class="meta__item">
+                <dt>Latest</dt>
+                <dd id="release-tag">Loading…</dd>
+              </div>
+              <div class="meta__item">
+                <dt>Published</dt>
+                <dd id="release-date">—</dd>
+              </div>
+            </dl>
+          </div>
+
+          <div class="hero__card" aria-label="Latest release">
+            <div class="card">
+              <div class="card__title">Latest Release</div>
+              <div class="card__body">
+                <div id="release-error" class="hidden">
+                  Couldn’t load the latest release from GitHub. Use the
+                  <a
+                    href="https://github.com/Istiaq-Alam/Flappy-Birds-Game/releases/latest"
+                    target="_blank"
+                    rel="noreferrer"
+                    >releases page</a
+                  >.
+                </div>
+
+                <div id="release-assets" class="assets">
+                  <div class="assets__loading">Loading assets…</div>
+                </div>
+              </div>
+
+              <div class="card__footer">
+                <span class="muted"
+                  >Tip: upload a <code>.jar</code> or <code>.zip</code> asset to
+                  the release.</span
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="download" class="section">
+        <div class="container">
+          <h2>Download</h2>
+          <p>
+            Use the buttons above to download assets from the latest GitHub
+            Release.
+          </p>
+          <p class="muted">
+            If you prefer hosting a fixed file on GitHub Pages, you can also put
+            a file at <code>docs/downloads/FlappyBirds-latest.jar</code> and link
+            to it manually.
+          </p>
+        </div>
+      </section>
+
+      <section id="run" class="section section--alt">
+        <div class="container">
+          <h2>How to Run</h2>
+          <ol class="steps">
+            <li>Download <code>FlappyBirds.jar</code> from the latest release.</li>
+            <li>Make sure Java is installed (JDK/JRE).</li>
+            <li>
+              Run: <code>java -jar FlappyBirds.jar</code>
+            </li>
+          </ol>
+        </div>
+      </section>
+
+      <section id="release" class="section">
+        <div class="container">
+          <h2>Upload a New Release</h2>
+          <ol class="steps">
+            <li>Create a new GitHub Release (tag like <code>v1.2.3</code>).</li>
+            <li>Attach your built <code>.jar</code> (and/or a <code>.zip</code>).</li>
+            <li>This website updates automatically to point to that release.</li>
+          </ol>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container footer__inner">
+        <span class="muted"
+          >Built for GitHub Pages. Source:
+          <a
+            href="https://github.com/Istiaq-Alam/Flappy-Birds-Game"
+            target="_blank"
+            rel="noreferrer"
+            >Istiaq-Alam/Flappy-Birds-Game</a
+          ></span
+        >
+      </div>
+    </footer>
+  </body>
+</html>
+
