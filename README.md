@@ -1,25 +1,25 @@
 # Flappy Bird
 
 Flappy Bird game is made with Java. In this project, I added an interface that will show the GUI game named Flappy Bird. Users can click on the Play button to play the game. Then a new window will open for the Flappy Bird game. It is not my first Java Project on games.
-
+ 
 <img align="right" alt="logo" width="400" src="https://github.com/Istiaq-Alam/Flappy-Birds-Game/assets/168295675/56bcd400-d8f8-4b19-bea4-3c6c361ba65a">
 
     
 ## JDK Version & IDE:
 1.	JDK 19.0.2 (64bit Version)  
-2.	NetBeans IDE 18   
+2.	NetBeans IDE 18    
 
     
-## Java Libraries:     
-
-1.	Java Swing
-2.	Java Awt
+## Java Libraries:      
+ 
+1.	Java Swing 
+2.	Java Awt 
 3.	Java Graphics   
-4.	Java Graphics2D
-
-### [Note: No external library is used in this project]
-
-   
+4.	Java Graphics2D 
+ 
+### [Note: No external library is used in this project] 
+ 
+ 
 ## Packages:
 1.	flappyBirds
 2.	Pkg2dgamesframework
@@ -38,7 +38,7 @@ Flappy Bird game is made with Java. In this project, I added an interface that w
 ## Main Screen Panel:
 ![image](https://github.com/Istiaq-Alam/Flappy-Birds-Game/assets/168295675/9dc61c6e-6505-4c1f-a2ed-b3ddbf7875a9)
 
-## Game Screen Panel:
+## Game Screen Panel: 
 ![image](https://github.com/Istiaq-Alam/Flappy-Birds-Game/assets/168295675/8617581f-d84e-4cbf-adb1-df90bd754386)
 
 ## GameOver Screen Panel:
@@ -59,7 +59,7 @@ Overall, Flappy Bird is a challenging and addictive game that tests the player's
 ## Reference and using codes from:   
 Thạch Phạm Dev, \
 App Developer, Vietnam. \
-tpgamecoding.com - tpgamecoding Resources and Information.
+tpgamecoding.com - tpgamecoding Resources and Information.  
 
 ## Deploy
 To deploy this project run this command in you Netbeans Project directory 
