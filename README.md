@@ -61,6 +61,19 @@ Thạch Phạm Dev, \
 App Developer, Vietnam. \
 tpgamecoding.com - tpgamecoding Resources and Information.  
 
+## Website (GitHub Pages)
+This repo includes a simple download website in `docs/` that shows the latest GitHub Release assets automatically.
+
+To enable it:
+1. Go to **Settings → Pages**
+2. Set **Source** to **Deploy from a branch**
+3. Select **Branch**: `main` and **Folder**: `/docs`
+
+Your site URL will be like: `https://istiaq-alam.github.io/Flappy-Birds-Game/`
+
+## Releases (Upload Latest Build)
+Create a GitHub Release and attach your built `FlappyBirds.jar` (and/or a `.zip`). The website will automatically pick up the newest release and show the download links.
+
 ## Deploy
 To deploy this project run this command in you Netbeans Project directory 
 
